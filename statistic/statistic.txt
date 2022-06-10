@@ -1,0 +1,4 @@
+vt 135.37s, st 122.07s, mt 27.03s
+avt 2.71s, ast 2.44s, amt 0.54s
+avg_v2m 5.51
+avg_s2m 4.44

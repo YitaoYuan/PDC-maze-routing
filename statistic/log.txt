@@ -1,0 +1,612 @@
+build/maze_routing_violence ./benchmark ./result_run_maze_routing_violence.txt
+./benchmark/case0.txt:
+    Run time of loading map file: 0.70s
+    Answer in brief: 4711
+    Run time of calculation: 0.66s
+./benchmark/case1.txt:
+    Run time of loading map file: 0.65s
+    Answer in brief: 17598
+    Run time of calculation: 4.84s
+./benchmark/case2.txt:
+    Run time of loading map file: 0.64s
+    Answer in brief: 12913
+    Run time of calculation: 3.60s
+./benchmark/case3.txt:
+    Run time of loading map file: 1.02s
+    Answer in brief: 16506
+    Run time of calculation: 4.63s
+./benchmark/case4.txt:
+    Run time of loading map file: 1.09s
+    Answer in brief: 6141
+    Run time of calculation: 0.80s
+./benchmark/case5.txt:
+    Run time of loading map file: 0.64s
+    Answer in brief: 14927
+    Run time of calculation: 5.28s
+./benchmark/case6.txt:
+    Run time of loading map file: 0.64s
+    Answer in brief: 6311
+    Run time of calculation: 1.19s
+./benchmark/case7.txt:
+    Run time of loading map file: 0.65s
+    Answer in brief: 7027
+    Run time of calculation: 2.56s
+./benchmark/case8.txt:
+    Run time of loading map file: 0.64s
+    Answer in brief: 16971
+    Run time of calculation: 4.38s
+./benchmark/case9.txt:
+    Run time of loading map file: 0.63s
+    Answer in brief: 1828
+    Run time of calculation: 0.04s
+./benchmark/case10.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 6479
+    Run time of calculation: 2.12s
+./benchmark/case11.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 13172
+    Run time of calculation: 3.95s
+./benchmark/case12.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 3559
+    Run time of calculation: 0.52s
+./benchmark/case13.txt:
+    Run time of loading map file: 0.91s
+    Answer in brief: 11241
+    Run time of calculation: 3.97s
+./benchmark/case14.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 8770
+    Run time of calculation: 2.19s
+./benchmark/case15.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 21933
+    Run time of calculation: 5.16s
+./benchmark/case16.txt:
+    Run time of loading map file: 0.74s
+    Answer in brief: 9086
+    Run time of calculation: 2.35s
+./benchmark/case17.txt:
+    Run time of loading map file: 0.75s
+    Answer in brief: 11607
+    Run time of calculation: 3.27s
+./benchmark/case18.txt:
+    Run time of loading map file: 0.71s
+    Answer in brief: 14472
+    Run time of calculation: 4.68s
+./benchmark/case19.txt:
+    Run time of loading map file: 0.74s
+    Answer in brief: 6645
+    Run time of calculation: 1.99s
+./benchmark/case20.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 13239
+    Run time of calculation: 4.33s
+./benchmark/case21.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 8163
+    Run time of calculation: 1.14s
+./benchmark/case22.txt:
+    Run time of loading map file: 0.71s
+    Answer in brief: 11287
+    Run time of calculation: 4.65s
+./benchmark/case23.txt:
+    Run time of loading map file: 0.78s
+    Answer in brief: 9394
+    Run time of calculation: 1.84s
+./benchmark/case24.txt:
+    Run time of loading map file: 0.90s
+    Answer in brief: 13635
+    Run time of calculation: 3.65s
+./benchmark/case25.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 10221
+    Run time of calculation: 4.98s
+./benchmark/case26.txt:
+    Run time of loading map file: 0.73s
+    Answer in brief: 15180
+    Run time of calculation: 3.26s
+./benchmark/case27.txt:
+    Run time of loading map file: 0.75s
+    Answer in brief: 15472
+    Run time of calculation: 3.69s
+./benchmark/case28.txt:
+    Run time of loading map file: 0.73s
+    Answer in brief: 7441
+    Run time of calculation: 2.24s
+./benchmark/case29.txt:
+    Run time of loading map file: 0.96s
+    Answer in brief: 11229
+    Run time of calculation: 2.97s
+./benchmark/case30.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 4653
+    Run time of calculation: 0.49s
+./benchmark/case31.txt:
+    Run time of loading map file: 1.08s
+    Answer in brief: 2851
+    Run time of calculation: 0.34s
+./benchmark/case32.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 8915
+    Run time of calculation: 3.91s
+./benchmark/case33.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 2823
+    Run time of calculation: 0.16s
+./benchmark/case34.txt:
+    Run time of loading map file: 0.80s
+    Answer in brief: 8956
+    Run time of calculation: 2.31s
+./benchmark/case35.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 16017
+    Run time of calculation: 4.36s
+./benchmark/case36.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 7624
+    Run time of calculation: 1.09s
+./benchmark/case37.txt:
+    Run time of loading map file: 1.04s
+    Answer in brief: 6071
+    Run time of calculation: 1.68s
+./benchmark/case38.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 3379
+    Run time of calculation: 0.47s
+./benchmark/case39.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 6324
+    Run time of calculation: 1.51s
+./benchmark/case40.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 10222
+    Run time of calculation: 2.98s
+./benchmark/case41.txt:
+    Run time of loading map file: 0.86s
+    Answer in brief: 4903
+    Run time of calculation: 1.11s
+./benchmark/case42.txt:
+    Run time of loading map file: 0.89s
+    Answer in brief: 2566
+    Run time of calculation: 0.25s
+./benchmark/case43.txt:
+    Run time of loading map file: 0.91s
+    Answer in brief: 4777
+    Run time of calculation: 0.67s
+./benchmark/case44.txt:
+    Run time of loading map file: 0.91s
+    Answer in brief: 14653
+    Run time of calculation: 2.75s
+./benchmark/case45.txt:
+    Run time of loading map file: 0.86s
+    Answer in brief: 16419
+    Run time of calculation: 5.55s
+./benchmark/case46.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 10619
+    Run time of calculation: 2.52s
+./benchmark/case47.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 8191
+    Run time of calculation: 2.60s
+./benchmark/case48.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 18293
+    Run time of calculation: 5.46s
+./benchmark/case49.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 15002
+    Run time of calculation: 4.23s
+
+Finished! Result is in ./result_run_maze_routing_violence.txt
+
+build/maze_routing_st ./benchmark ./result_run_maze_routing_st.txt
+./benchmark/case0.txt:
+    Run time of loading map file: 0.66s
+    Answer in brief: 4711
+    Run time of calculation: 0.54s
+./benchmark/case1.txt:
+    Run time of loading map file: 0.60s
+    Answer in brief: 17598
+    Run time of calculation: 5.09s
+./benchmark/case2.txt:
+    Run time of loading map file: 0.95s
+    Answer in brief: 12913
+    Run time of calculation: 4.18s
+./benchmark/case3.txt:
+    Run time of loading map file: 0.56s
+    Answer in brief: 16506
+    Run time of calculation: 4.37s
+./benchmark/case4.txt:
+    Run time of loading map file: 0.56s
+    Answer in brief: 6141
+    Run time of calculation: 0.97s
+./benchmark/case5.txt:
+    Run time of loading map file: 0.58s
+    Answer in brief: 14927
+    Run time of calculation: 4.81s
+./benchmark/case6.txt:
+    Run time of loading map file: 0.60s
+    Answer in brief: 6311
+    Run time of calculation: 0.80s
+./benchmark/case7.txt:
+    Run time of loading map file: 0.59s
+    Answer in brief: 7027
+    Run time of calculation: 1.47s
+./benchmark/case8.txt:
+    Run time of loading map file: 0.59s
+    Answer in brief: 16971
+    Run time of calculation: 5.09s
+./benchmark/case9.txt:
+    Run time of loading map file: 0.57s
+    Answer in brief: 1828
+    Run time of calculation: 0.05s
+./benchmark/case10.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 6479
+    Run time of calculation: 1.04s
+./benchmark/case11.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 13172
+    Run time of calculation: 3.45s
+./benchmark/case12.txt:
+    Run time of loading map file: 0.75s
+    Answer in brief: 3559
+    Run time of calculation: 0.33s
+./benchmark/case13.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 11241
+    Run time of calculation: 2.72s
+./benchmark/case14.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 8770
+    Run time of calculation: 2.32s
+./benchmark/case15.txt:
+    Run time of loading map file: 0.64s
+    Answer in brief: 21933
+    Run time of calculation: 5.67s
+./benchmark/case16.txt:
+    Run time of loading map file: 0.67s
+    Answer in brief: 9086
+    Run time of calculation: 2.03s
+./benchmark/case17.txt:
+    Run time of loading map file: 0.78s
+    Answer in brief: 11607
+    Run time of calculation: 3.79s
+./benchmark/case18.txt:
+    Run time of loading map file: 0.78s
+    Answer in brief: 14472
+    Run time of calculation: 4.43s
+./benchmark/case19.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 6645
+    Run time of calculation: 1.12s
+./benchmark/case20.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 13239
+    Run time of calculation: 3.68s
+./benchmark/case21.txt:
+    Run time of loading map file: 0.93s
+    Answer in brief: 8163
+    Run time of calculation: 1.21s
+./benchmark/case22.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 11287
+    Run time of calculation: 3.98s
+./benchmark/case23.txt:
+    Run time of loading map file: 0.85s
+    Answer in brief: 9394
+    Run time of calculation: 2.04s
+./benchmark/case24.txt:
+    Run time of loading map file: 0.80s
+    Answer in brief: 13635
+    Run time of calculation: 4.43s
+./benchmark/case25.txt:
+    Run time of loading map file: 0.87s
+    Answer in brief: 10221
+    Run time of calculation: 2.85s
+./benchmark/case26.txt:
+    Run time of loading map file: 0.86s
+    Answer in brief: 15180
+    Run time of calculation: 3.64s
+./benchmark/case27.txt:
+    Run time of loading map file: 0.85s
+    Answer in brief: 15472
+    Run time of calculation: 4.13s
+./benchmark/case28.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 7441
+    Run time of calculation: 1.23s
+./benchmark/case29.txt:
+    Run time of loading map file: 0.72s
+    Answer in brief: 11229
+    Run time of calculation: 3.33s
+./benchmark/case30.txt:
+    Run time of loading map file: 0.73s
+    Answer in brief: 4653
+    Run time of calculation: 0.46s
+./benchmark/case31.txt:
+    Run time of loading map file: 0.55s
+    Answer in brief: 2851
+    Run time of calculation: 0.20s
+./benchmark/case32.txt:
+    Run time of loading map file: 0.74s
+    Answer in brief: 8915
+    Run time of calculation: 1.89s
+./benchmark/case33.txt:
+    Run time of loading map file: 0.73s
+    Answer in brief: 2823
+    Run time of calculation: 0.15s
+./benchmark/case34.txt:
+    Run time of loading map file: 0.72s
+    Answer in brief: 8956
+    Run time of calculation: 2.10s
+./benchmark/case35.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 16017
+    Run time of calculation: 4.29s
+./benchmark/case36.txt:
+    Run time of loading map file: 0.75s
+    Answer in brief: 7624
+    Run time of calculation: 1.33s
+./benchmark/case37.txt:
+    Run time of loading map file: 0.57s
+    Answer in brief: 6071
+    Run time of calculation: 1.05s
+./benchmark/case38.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 3379
+    Run time of calculation: 0.28s
+./benchmark/case39.txt:
+    Run time of loading map file: 0.75s
+    Answer in brief: 6324
+    Run time of calculation: 0.88s
+./benchmark/case40.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 10222
+    Run time of calculation: 3.08s
+./benchmark/case41.txt:
+    Run time of loading map file: 0.72s
+    Answer in brief: 4903
+    Run time of calculation: 0.66s
+./benchmark/case42.txt:
+    Run time of loading map file: 0.61s
+    Answer in brief: 2566
+    Run time of calculation: 0.15s
+./benchmark/case43.txt:
+    Run time of loading map file: 0.64s
+    Answer in brief: 4777
+    Run time of calculation: 0.46s
+./benchmark/case44.txt:
+    Run time of loading map file: 0.59s
+    Answer in brief: 14653
+    Run time of calculation: 3.76s
+./benchmark/case45.txt:
+    Run time of loading map file: 0.64s
+    Answer in brief: 16419
+    Run time of calculation: 4.90s
+./benchmark/case46.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 10619
+    Run time of calculation: 2.04s
+./benchmark/case47.txt:
+    Run time of loading map file: 0.74s
+    Answer in brief: 8191
+    Run time of calculation: 1.39s
+./benchmark/case48.txt:
+    Run time of loading map file: 0.74s
+    Answer in brief: 18293
+    Run time of calculation: 5.39s
+./benchmark/case49.txt:
+    Run time of loading map file: 0.74s
+    Answer in brief: 15002
+    Run time of calculation: 2.82s
+
+Finished! Result is in ./result_run_maze_routing_st.txt
+
+build/maze_routing_mt ./benchmark ./result_run_maze_routing_mt.txt
+./benchmark/case0.txt:
+    Run time of loading map file: 0.93s
+    Answer in brief: 4711
+    Run time of calculation: 0.12s
+./benchmark/case1.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 17598
+    Run time of calculation: 0.93s
+./benchmark/case2.txt:
+    Run time of loading map file: 0.68s
+    Answer in brief: 12913
+    Run time of calculation: 0.82s
+./benchmark/case3.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 16506
+    Run time of calculation: 0.83s
+./benchmark/case4.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 6141
+    Run time of calculation: 0.21s
+./benchmark/case5.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 14927
+    Run time of calculation: 0.94s
+./benchmark/case6.txt:
+    Run time of loading map file: 0.85s
+    Answer in brief: 6311
+    Run time of calculation: 0.18s
+./benchmark/case7.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 7027
+    Run time of calculation: 0.31s
+./benchmark/case8.txt:
+    Run time of loading map file: 0.69s
+    Answer in brief: 16971
+    Run time of calculation: 1.00s
+./benchmark/case9.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 1828
+    Run time of calculation: 0.02s
+./benchmark/case10.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 6479
+    Run time of calculation: 0.25s
+./benchmark/case11.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 13172
+    Run time of calculation: 0.71s
+./benchmark/case12.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 3559
+    Run time of calculation: 0.08s
+./benchmark/case13.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 11241
+    Run time of calculation: 0.56s
+./benchmark/case14.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 8770
+    Run time of calculation: 0.50s
+./benchmark/case15.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 21933
+    Run time of calculation: 1.16s
+./benchmark/case16.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 9086
+    Run time of calculation: 0.42s
+./benchmark/case17.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 11607
+    Run time of calculation: 0.76s
+./benchmark/case18.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 14472
+    Run time of calculation: 1.35s
+./benchmark/case19.txt:
+    Run time of loading map file: 0.85s
+    Answer in brief: 6645
+    Run time of calculation: 0.32s
+./benchmark/case20.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 13239
+    Run time of calculation: 0.85s
+./benchmark/case21.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 8163
+    Run time of calculation: 0.28s
+./benchmark/case22.txt:
+    Run time of loading map file: 0.72s
+    Answer in brief: 11287
+    Run time of calculation: 0.84s
+./benchmark/case23.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 9394
+    Run time of calculation: 0.40s
+./benchmark/case24.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 13635
+    Run time of calculation: 1.18s
+./benchmark/case25.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 10221
+    Run time of calculation: 0.59s
+./benchmark/case26.txt:
+    Run time of loading map file: 0.76s
+    Answer in brief: 15180
+    Run time of calculation: 0.80s
+./benchmark/case27.txt:
+    Run time of loading map file: 0.77s
+    Answer in brief: 15472
+    Run time of calculation: 0.88s
+./benchmark/case28.txt:
+    Run time of loading map file: 0.74s
+    Answer in brief: 7441
+    Run time of calculation: 0.24s
+./benchmark/case29.txt:
+    Run time of loading map file: 0.80s
+    Answer in brief: 11229
+    Run time of calculation: 0.70s
+./benchmark/case30.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 4653
+    Run time of calculation: 0.10s
+./benchmark/case31.txt:
+    Run time of loading map file: 0.86s
+    Answer in brief: 2851
+    Run time of calculation: 0.05s
+./benchmark/case32.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 8915
+    Run time of calculation: 0.38s
+./benchmark/case33.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 2823
+    Run time of calculation: 0.04s
+./benchmark/case34.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 8956
+    Run time of calculation: 0.74s
+./benchmark/case35.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 16017
+    Run time of calculation: 0.98s
+./benchmark/case36.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 7624
+    Run time of calculation: 0.29s
+./benchmark/case37.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 6071
+    Run time of calculation: 0.23s
+./benchmark/case38.txt:
+    Run time of loading map file: 0.84s
+    Answer in brief: 3379
+    Run time of calculation: 0.07s
+./benchmark/case39.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 6324
+    Run time of calculation: 0.21s
+./benchmark/case40.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 10222
+    Run time of calculation: 0.67s
+./benchmark/case41.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 4903
+    Run time of calculation: 0.16s
+./benchmark/case42.txt:
+    Run time of loading map file: 0.85s
+    Answer in brief: 2566
+    Run time of calculation: 0.04s
+./benchmark/case43.txt:
+    Run time of loading map file: 0.81s
+    Answer in brief: 4777
+    Run time of calculation: 0.10s
+./benchmark/case44.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 14653
+    Run time of calculation: 0.88s
+./benchmark/case45.txt:
+    Run time of loading map file: 0.88s
+    Answer in brief: 16419
+    Run time of calculation: 1.20s
+./benchmark/case46.txt:
+    Run time of loading map file: 0.83s
+    Answer in brief: 10619
+    Run time of calculation: 0.46s
+./benchmark/case47.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 8191
+    Run time of calculation: 0.30s
+./benchmark/case48.txt:
+    Run time of loading map file: 0.82s
+    Answer in brief: 18293
+    Run time of calculation: 1.23s
+./benchmark/case49.txt:
+    Run time of loading map file: 0.90s
+    Answer in brief: 15002
+    Run time of calculation: 0.67s
+
+Finished! Result is in ./result_run_maze_routing_mt.txt
+
